@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 layout: post
 name: Minecraft基岩版国际服 Android安装包下载
+github:
+  is_project_page: false
